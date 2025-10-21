@@ -1,3 +1,7 @@
+# Alunos 
+Lucas Zago - rm562028
+Arthur Canaverde - rm563029
+
 # 🎬 Movie Finder
 
 Uma aplicação React moderna para buscar e explorar filmes usando a OMDb API. A aplicação oferece uma interface responsiva e intuitiva para descobrir filmes, visualizar detalhes e ter uma experiência de usuário fluida.
